@@ -9,9 +9,11 @@ There are two ways to reproduce:
 
 Note: In case those additional jars cannot be found, use absolute paths!
 
+![Example Run Result](ExampleRun.png)
+
 ## Software Environment:
 
-* IntelliJ IDEA Community Edition 2016.1.2
+* IntelliJ IDEA Community Edition 2016.1.3
 
 * Java SDK v1.8.0_92 64-bit
 
