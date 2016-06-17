@@ -1,0 +1,9 @@
+A south=E east=B
+B south=F east=C west=A
+C south=G east=I west=B
+D east=E
+E north=A east=F west=D
+F north=B south=H east=G west=E
+G north=C west=F
+H north=F
+I west=C
